@@ -2,7 +2,7 @@
 
 # Introduction
 <p align="right">
-<img src="https://github.com/bodeolukolu/Stat_Genetics_Genomics/blob/master/misc/Course_Flyer.PNG" width="173" height="111">
+<img src="https://github.com/bodeolukolu/Stat_Genetics_Genomics/blob/main/misc/Course_Flyer.PNG" width="173" height="111">
 </p>
 
 For questions, please contact bolukolu@utk.edu.
@@ -16,5 +16,5 @@ For questions, please contact bolukolu@utk.edu.
 
 
 <p align="right">
-<img src="https://github.com/bodeolukolu/Stat_Genetics_Genomics/blob/master/misc/Summary_course_content.PNG" width="173" height="111">
+<img src="https://github.com/bodeolukolu/Stat_Genetics_Genomics/blob/main/misc/Summary_course_content.PNG" width="173" height="111">
 </p>
