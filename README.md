@@ -1,11 +1,6 @@
-# Stat_Genetics_Genomics (EPP 633)
+# Stat_Genetics_Genomics
 
-# Introduction
-<p align="right">
-<img src="https://github.com/bodeolukolu/Stat_Genetics_Genomics/blob/main/misc/Course_Flyer.PNG" width="1113" height="785">
-</p>
 
-For questions, please contact bolukolu@utk.edu.
 
 ## Contents
 - [EPP 633: Lectures](#EPP 633: Lectures)
@@ -15,6 +10,17 @@ For questions, please contact bolukolu@utk.edu.
   - by David J. Balding (Editor), Ida Moltke (Editor), John Marioni (Editor)
 
 
+
+## Introduction
 <p align="right">
-<img src="https://github.com/bodeolukolu/Stat_Genetics_Genomics/blob/main/misc/Summary_course_content.PNG" width="1043" height="639">
+<img src="https://github.com/bodeolukolu/Stat_Genetics_Genomics/blob/main/misc/Course_Flyer.PNG">
+</p>
+
+For questions, please contact bolukolu@utk.edu.
+
+
+
+## Course synopsis
+<p align="right">
+<img src="https://github.com/bodeolukolu/Stat_Genetics_Genomics/blob/main/misc/Summary_course_content.PNG">
 </p>
